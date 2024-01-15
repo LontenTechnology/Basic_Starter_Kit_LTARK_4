@@ -4,7 +4,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/basic_starter_kit_LTARK_4
-
+<img src='4.jpeg' width='100%'/>
 
 ### Download
 
